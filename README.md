@@ -1,4 +1,4 @@
-# beat_buddy
+# Beat Buddy
 
 Beat Buddy is a sleek and intuitive music player app designed to enhance your listening experience. With its user-friendly interface and powerful features, Beat Buddy allows you to enjoy your favorite tunes effortlessly.
 
